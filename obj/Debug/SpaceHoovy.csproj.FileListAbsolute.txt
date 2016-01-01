@@ -1,0 +1,12 @@
+c:\users\d\documents\visual studio 2015\Projects\SpaceHoovy\SpaceHoovy\bin\Debug\SpaceHoovy.exe.config
+c:\users\d\documents\visual studio 2015\Projects\SpaceHoovy\SpaceHoovy\bin\Debug\SpaceHoovy.exe
+c:\users\d\documents\visual studio 2015\Projects\SpaceHoovy\SpaceHoovy\bin\Debug\SpaceHoovy.pdb
+c:\users\d\documents\visual studio 2015\Projects\SpaceHoovy\SpaceHoovy\obj\Debug\SpaceHoovy.csprojResolveAssemblyReference.cache
+c:\users\d\documents\visual studio 2015\Projects\SpaceHoovy\SpaceHoovy\obj\Debug\SpaceHoovy.Properties.Resources.resources
+c:\users\d\documents\visual studio 2015\Projects\SpaceHoovy\SpaceHoovy\obj\Debug\SpaceHoovy.csproj.GenerateResource.Cache
+c:\users\d\documents\visual studio 2015\Projects\SpaceHoovy\SpaceHoovy\obj\Debug\SpaceHoovy.exe
+c:\users\d\documents\visual studio 2015\Projects\SpaceHoovy\SpaceHoovy\obj\Debug\SpaceHoovy.pdb
+c:\users\d\documents\visual studio 2015\Projects\SpaceHoovy\SpaceHoovy\bin\Debug\Resources\hoovey.png
+c:\users\d\documents\visual studio 2015\Projects\SpaceHoovy\SpaceHoovy\bin\Debug\Resources\knife.png
+c:\users\d\documents\visual studio 2015\Projects\SpaceHoovy\SpaceHoovy\bin\Debug\Resources\spy.png
+c:\users\d\documents\visual studio 2015\Projects\SpaceHoovy\SpaceHoovy\bin\Debug\Resources\starfield.jpg
